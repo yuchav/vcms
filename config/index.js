@@ -64,7 +64,7 @@ module.exports = {
      * then assetsPublicPath should be set to "/bar/".
      * In most cases please use '/' !!!
      */
-    assetsPublicPath: '/vcms-site/', //debug
+    assetsPublicPath: './', //debug
 
     /**
      * Source Maps
